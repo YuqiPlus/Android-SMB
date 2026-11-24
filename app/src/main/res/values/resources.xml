@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android SMB</string>
+    <string name="documents_root">Android SMB</string>
+
+    <style name="BaseAppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#17614D</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#EDF3EF</item>
+        <item name="android:navigationBarColor">#182A24</item>
+    </style>
+    <style name="AppTheme" parent="BaseAppTheme" />
+</resources>
